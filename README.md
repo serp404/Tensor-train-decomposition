@@ -1,2 +1,2 @@
 # Tensor-train-deomposition
-Implementation of TT-decomposition
+Python implementation of TT-decomposition
